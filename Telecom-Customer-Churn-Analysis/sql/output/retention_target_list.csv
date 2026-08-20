@@ -1,0 +1,535 @@
+customerID,Contract,tenure,TenureGroup,MonthlyCharges,MonthlyChargesGroup,InternetService,PaymentMethod,TechSupport,OnlineSecurity,DeviceProtection,Churn
+2027-FECZV,Month-to-month,12,"0-12 months",106.7,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+1400-MMYXY,Month-to-month,3,"0-12 months",105.9,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3389-YGYAI,Month-to-month,8,"0-12 months",105.5,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+5052-PNLOS,Month-to-month,3,"0-12 months",105.35,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+4587-VVTOX,Month-to-month,6,"0-12 months",105.3,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+6496-SLWHQ,Month-to-month,3,"0-12 months",105,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+5923-GXUOC,Month-to-month,10,"0-12 months",104.4,High,"Fiber optic","Electronic check",No,Yes,Yes,Yes
+2369-UAPKZ,Month-to-month,5,"0-12 months",104.1,High,"Fiber optic","Mailed check",No,No,Yes,Yes
+7181-BQYBV,Month-to-month,1,"0-12 months",102.45,High,"Fiber optic","Electronic check",No,Yes,Yes,Yes
+1465-VINDH,Month-to-month,10,"0-12 months",102.1,High,"Fiber optic","Credit card (automatic)",No,No,Yes,Yes
+6688-UZPWD,Month-to-month,11,"0-12 months",102,High,"Fiber optic","Electronic check",No,No,No,Yes
+8884-ADFVN,Month-to-month,7,"0-12 months",101.95,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0702-PGIBZ,Month-to-month,4,"0-12 months",101.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+5299-SJCZT,Month-to-month,3,"0-12 months",101.55,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+5419-JPRRN,Month-to-month,1,"0-12 months",101.45,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3902-FOIGH,Month-to-month,12,"0-12 months",101.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+7234-FECYN,Month-to-month,8,"0-12 months",101.35,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0880-TKATG,Month-to-month,4,"0-12 months",101.15,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0302-JOIVN,Month-to-month,8,"0-12 months",101.15,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+6023-YEBUP,Month-to-month,3,"0-12 months",100.95,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+6326-MTTXK,Month-to-month,8,"0-12 months",100.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+7216-EWTRS,Month-to-month,1,"0-12 months",100.8,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+4078-SAYYN,Month-to-month,11,"0-12 months",100.75,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+4822-RVYBB,Month-to-month,8,"0-12 months",100.6,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+2968-SSGAA,Month-to-month,10,"0-12 months",100.6,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0781-LKXBR,Month-to-month,9,"0-12 months",100.5,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+9681-OXGVC,Month-to-month,5,"0-12 months",100.5,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+5299-RULOA,Month-to-month,10,"0-12 months",100.25,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+3178-FESZO,Month-to-month,1,"0-12 months",100.25,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+2656-TABEH,Month-to-month,4,"0-12 months",100.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+2612-RANWT,Month-to-month,12,"0-12 months",100.15,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+3811-VBYBZ,Month-to-month,7,"0-12 months",99.8,High,"Fiber optic","Electronic check",No,No,No,Yes
+5419-CONWX,Month-to-month,4,"0-12 months",99.8,High,"Fiber optic","Credit card (automatic)",No,No,Yes,Yes
+0107-YHINA,Month-to-month,1,"0-12 months",99.75,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+7783-YKGDV,Month-to-month,12,"0-12 months",99.7,High,"Fiber optic","Bank transfer (automatic)",No,Yes,Yes,Yes
+9305-CDSKC,Month-to-month,8,"0-12 months",99.65,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+2265-CYWIV,Month-to-month,4,"0-12 months",99.6,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+2012-NWRPA,Month-to-month,11,"0-12 months",99.55,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0897-FEGMU,Month-to-month,11,"0-12 months",99.5,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+6210-KBBPI,Month-to-month,9,"0-12 months",99.45,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+7450-NWRTR,Month-to-month,12,"0-12 months",99.45,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+6861-XWTWQ,Month-to-month,7,"0-12 months",99.25,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+6956-SMUCM,Month-to-month,3,"0-12 months",99,High,"Fiber optic","Credit card (automatic)",No,Yes,Yes,Yes
+9172-ANCRX,Month-to-month,10,"0-12 months",98.7,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+5138-WVKYJ,Month-to-month,10,"0-12 months",98.55,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+1455-UGQVH,Month-to-month,10,"0-12 months",98.5,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+9734-YWGEX,Month-to-month,9,"0-12 months",98.3,High,"Fiber optic","Credit card (automatic)",No,No,Yes,Yes
+2446-BEGGB,Month-to-month,6,"0-12 months",98.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+2454-RPBRZ,Month-to-month,12,"0-12 months",98.1,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0655-RBDUG,Month-to-month,7,"0-12 months",98.05,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+6108-OQZDQ,Month-to-month,4,"0-12 months",97.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+8168-UQWWF,Month-to-month,11,"0-12 months",97.85,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+9057-SIHCH,Month-to-month,3,"0-12 months",96.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+1010-DIAUQ,Month-to-month,5,"0-12 months",96.5,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+7548-SEPYI,Month-to-month,5,"0-12 months",96.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+7526-BEZQB,Month-to-month,12,"0-12 months",96.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+3158-MOERK,Month-to-month,2,"0-12 months",96,High,"Fiber optic","Electronic check",No,No,No,Yes
+2180-DXNEG,Month-to-month,12,"0-12 months",96,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0754-UKWQP,Month-to-month,2,"0-12 months",95.85,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3319-DWOEP,Month-to-month,6,"0-12 months",95.75,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+6857-VWJDT,Month-to-month,1,"0-12 months",95.65,High,"Fiber optic","Mailed check",No,No,No,Yes
+8413-VONUO,Month-to-month,2,"0-12 months",95.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+3585-ISXZP,Month-to-month,8,"0-12 months",95.65,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+3643-AHCFP,Month-to-month,7,"0-12 months",95.6,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+6356-ELRKD,Month-to-month,1,"0-12 months",95.6,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+0564-JJHGS,Month-to-month,9,"0-12 months",95.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+8098-LLAZX,Month-to-month,4,"0-12 months",95.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+0295-PPHDO,Month-to-month,1,"0-12 months",95.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+8357-EQXFO,Month-to-month,7,"0-12 months",95.35,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+2660-EMUBI,Month-to-month,10,"0-12 months",95.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+3049-SOLAY,Month-to-month,3,"0-12 months",95.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+2754-VDLTR,Month-to-month,10,"0-12 months",95.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+7851-WZEKY,Month-to-month,2,"0-12 months",95.15,High,"Fiber optic","Electronic check",No,No,No,Yes
+6328-ZPBGN,Month-to-month,11,"0-12 months",95.15,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+9944-HKVVB,Month-to-month,3,"0-12 months",95.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+5178-LMXOP,Month-to-month,1,"0-12 months",95.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+3874-EQOEP,Month-to-month,7,"0-12 months",95,High,"Fiber optic","Mailed check",No,No,No,Yes
+0094-OIFMO,Month-to-month,11,"0-12 months",95,High,"Fiber optic","Electronic check",No,No,No,Yes
+0684-AOSIH,Month-to-month,1,"0-12 months",95,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+5349-IECLD,Month-to-month,2,"0-12 months",94.95,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+7209-JCUDS,Month-to-month,10,"0-12 months",94.9,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3387-VATUS,Month-to-month,5,"0-12 months",94.85,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+3045-XETSH,Month-to-month,10,"0-12 months",94.85,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+7943-RQCHR,Month-to-month,9,"0-12 months",94.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+0325-XBFAC,Month-to-month,8,"0-12 months",94.7,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+6502-HCJTI,Month-to-month,7,"0-12 months",94.7,High,"Fiber optic","Credit card (automatic)",No,Yes,No,Yes
+4910-GMJOT,Month-to-month,1,"0-12 months",94.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+5567-WSELE,Month-to-month,3,"0-12 months",94.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+6101-IMRMM,Month-to-month,6,"0-12 months",94.5,High,"Fiber optic","Mailed check",No,No,Yes,Yes
+3217-FZDMN,Month-to-month,8,"0-12 months",94.45,High,"Fiber optic","Credit card (automatic)",No,No,Yes,Yes
+4192-GORJT,Month-to-month,5,"0-12 months",94.45,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+5698-BQJOH,Month-to-month,9,"0-12 months",94.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+9223-UCPVT,Month-to-month,1,"0-12 months",94.4,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+1374-DMZUI,Month-to-month,4,"0-12 months",94.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+2645-QTLMB,Month-to-month,7,"0-12 months",94.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+2929-ERCFZ,Month-to-month,8,"0-12 months",94.2,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+5519-NPHVG,Month-to-month,12,"0-12 months",94.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+3006-XIMLN,Month-to-month,2,"0-12 months",94.2,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+1567-DSCIC,Month-to-month,8,"0-12 months",94,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+9300-AGZNL,Month-to-month,1,"0-12 months",94,High,"Fiber optic","Electronic check",No,No,No,Yes
+2982-VPSGI,Month-to-month,11,"0-12 months",94,High,"Fiber optic","Electronic check",No,No,No,Yes
+2720-WGKHP,Month-to-month,2,"0-12 months",94,High,"Fiber optic","Electronic check",No,No,No,Yes
+5380-AFSSK,Month-to-month,5,"0-12 months",93.9,High,"Fiber optic","Mailed check",No,No,No,Yes
+7024-OHCCK,Month-to-month,2,"0-12 months",93.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+4626-GYCZP,Month-to-month,7,"0-12 months",93.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+8149-RSOUN,Month-to-month,1,"0-12 months",93.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+4424-TKOPW,Month-to-month,2,"0-12 months",93.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+9497-QCMMS,Month-to-month,1,"0-12 months",93.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+9025-AOMKI,Month-to-month,6,"0-12 months",93.55,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+6521-YYTYI,Month-to-month,1,"0-12 months",93.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+2462-XIIJB,Month-to-month,5,"0-12 months",92.5,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+4145-UQXUQ,Month-to-month,8,"0-12 months",92.1,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+5442-UTCVD,Month-to-month,3,"0-12 months",91.85,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+9940-HPQPG,Month-to-month,9,"0-12 months",91.75,High,"Fiber optic","Bank transfer (automatic)",No,Yes,Yes,Yes
+6892-EZDTG,Month-to-month,4,"0-12 months",91.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+5095-AESKG,Month-to-month,3,"0-12 months",91.5,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+9546-CQJSU,Month-to-month,2,"0-12 months",91.4,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+8414-MYSHR,Month-to-month,5,"0-12 months",91.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+3988-RQIXO,Month-to-month,1,"0-12 months",91.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+3398-FSHON,Month-to-month,12,"0-12 months",91.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+2672-HUYVI,Month-to-month,6,"0-12 months",91.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+1389-CXMLU,Month-to-month,3,"0-12 months",91.05,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+2472-OVKUP,Month-to-month,6,"0-12 months",91,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+5167-ZFFMM,Month-to-month,1,"0-12 months",90.85,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+9725-SCPZG,Month-to-month,1,"0-12 months",90.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+7330-WZLNC,Month-to-month,5,"0-12 months",90.8,High,"Fiber optic","Electronic check",No,No,No,Yes
+9846-GKXAS,Month-to-month,9,"0-12 months",90.8,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+2725-KXXWT,Month-to-month,1,"0-12 months",90.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+5797-APWZC,Month-to-month,1,"0-12 months",90.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+8775-LHDJH,Month-to-month,1,"0-12 months",90.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+7294-TMAOP,Month-to-month,1,"0-12 months",90.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+7274-RTAPZ,Month-to-month,1,"0-12 months",90.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+1579-KLYDT,Month-to-month,7,"0-12 months",90.45,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+2034-GDRCN,Month-to-month,2,"0-12 months",90.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+8780-IXSTS,Month-to-month,6,"0-12 months",90.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+4228-ZGYUW,Month-to-month,4,"0-12 months",90.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+3027-ZTDHO,Month-to-month,1,"0-12 months",89.9,High,"Fiber optic","Electronic check",No,No,No,Yes
+1624-NALOJ,Month-to-month,5,"0-12 months",89.8,High,"Fiber optic","Electronic check",No,No,No,Yes
+8337-UPOAQ,Month-to-month,10,"0-12 months",89.8,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0135-NMXAP,Month-to-month,12,"0-12 months",89.75,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+8999-BOHSE,Month-to-month,11,"0-12 months",89.7,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+9565-DJPIB,Month-to-month,4,"0-12 months",89.6,High,"Fiber optic","Mailed check",No,No,No,Yes
+0970-ETWGE,Month-to-month,1,"0-12 months",89.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+2074-GKOWZ,Month-to-month,2,"0-12 months",89.55,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+5644-PDMZC,Month-to-month,2,"0-12 months",89.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+9134-CEQMF,Month-to-month,7,"0-12 months",89.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+1724-BQUHA,Month-to-month,5,"0-12 months",89.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+4112-LUEIZ,Month-to-month,10,"0-12 months",89.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+2990-HWIML,Month-to-month,6,"0-12 months",89.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+7394-FKDNK,Month-to-month,9,"0-12 months",89.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+9611-CTWIH,Month-to-month,3,"0-12 months",89.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+7479-NITWS,Month-to-month,7,"0-12 months",89.35,High,"Fiber optic","Credit card (automatic)",No,No,Yes,Yes
+0345-HKJVM,Month-to-month,6,"0-12 months",89.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+1415-YFWLT,Month-to-month,1,"0-12 months",89.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+2865-TCHJW,Month-to-month,4,"0-12 months",89.2,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3801-HMYNL,Month-to-month,1,"0-12 months",89.15,High,"Fiber optic","Mailed check",No,No,No,Yes
+1455-ESIQH,Month-to-month,1,"0-12 months",89.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+4951-UKAAQ,Month-to-month,4,"0-12 months",88.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+5842-POCOP,Month-to-month,5,"0-12 months",88.9,High,"Fiber optic","Mailed check",No,Yes,Yes,Yes
+1273-MTETI,Month-to-month,4,"0-12 months",88.85,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3068-OMWZA,Month-to-month,1,"0-12 months",88.8,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+4695-WJZUE,Month-to-month,2,"0-12 months",88.55,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+7228-OMTPN,Month-to-month,4,"0-12 months",88.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+3722-WPXTK,Month-to-month,1,"0-12 months",88.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+5318-IXUZF,Month-to-month,2,"0-12 months",87.15,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+6979-ZNSFF,Month-to-month,8,"0-12 months",87.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+4140-MUHUG,Month-to-month,3,"0-12 months",86.85,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3097-NQYSN,Month-to-month,2,"0-12 months",86.85,High,"Fiber optic","Mailed check",No,No,No,Yes
+9451-LPGOO,Month-to-month,7,"0-12 months",86.8,High,"Fiber optic","Electronic check",No,No,No,Yes
+7779-LGOVN,Month-to-month,10,"0-12 months",86.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+8603-IJWDN,Month-to-month,1,"0-12 months",86.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+5229-PRWKT,Month-to-month,8,"0-12 months",86.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+1925-TIBLE,Month-to-month,7,"0-12 months",86.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+8861-HGGKB,Month-to-month,10,"0-12 months",86.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+4285-GYRQC,Month-to-month,7,"0-12 months",86.25,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+6275-YDUVO,Month-to-month,2,"0-12 months",86.2,High,"Fiber optic","Mailed check",No,No,Yes,Yes
+1342-JPNKI,Month-to-month,10,"0-12 months",86.05,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+4826-XTSOH,Month-to-month,1,"0-12 months",86.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+6474-FVJLC,Month-to-month,2,"0-12 months",86,High,"Fiber optic","Electronic check",No,No,No,Yes
+4844-JJWUY,Month-to-month,1,"0-12 months",86,High,"Fiber optic","Electronic check",No,No,No,Yes
+4952-YSOGZ,Month-to-month,4,"0-12 months",85.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+0220-EBGCE,Month-to-month,2,"0-12 months",85.85,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3049-NDXFL,Month-to-month,1,"0-12 months",85.8,High,"Fiber optic","Mailed check",No,No,No,Yes
+5192-EBGOV,Month-to-month,1,"0-12 months",85.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+1143-NMNQJ,Month-to-month,2,"0-12 months",85.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+0259-GBZSH,Month-to-month,2,"0-12 months",85.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+7488-MXJIV,Month-to-month,4,"0-12 months",85.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+0697-ZMSWS,Month-to-month,4,"0-12 months",85.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+7249-WBIYX,Month-to-month,10,"0-12 months",85.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+0235-KGSLC,Month-to-month,1,"0-12 months",85.55,High,"Fiber optic","Credit card (automatic)",No,No,Yes,Yes
+5277-ZLOOR,Month-to-month,2,"0-12 months",85.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+3247-ZVOUO,Month-to-month,10,"0-12 months",85.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+9124-LHCJQ,Month-to-month,1,"0-12 months",85.45,High,"Fiber optic","Mailed check",No,No,No,Yes
+5597-GLBUC,Month-to-month,1,"0-12 months",85.45,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3138-BKYAV,Month-to-month,6,"0-12 months",85.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+2691-NZETQ,Month-to-month,9,"0-12 months",85.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+5569-KGJHX,Month-to-month,9,"0-12 months",85.35,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+2952-QAYZF,Month-to-month,5,"0-12 months",85.3,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+8593-WHYHV,Month-to-month,3,"0-12 months",85.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+0195-IESCP,Month-to-month,10,"0-12 months",85.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+3106-ULWFW,Month-to-month,8,"0-12 months",85.2,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+3834-XUIFC,Month-to-month,7,"0-12 months",85.2,High,"Fiber optic","Mailed check",No,No,No,Yes
+4548-SDBKE,Month-to-month,5,"0-12 months",85.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+4369-HTUIF,Month-to-month,6,"0-12 months",85.15,High,"Fiber optic","Bank transfer (automatic)",No,Yes,No,Yes
+1069-XAIEM,Month-to-month,1,"0-12 months",85.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+2642-DTVCO,Month-to-month,9,"0-12 months",85.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+9282-IZGQK,Month-to-month,1,"0-12 months",85,High,"Fiber optic","Electronic check",No,No,No,Yes
+6230-BSUXY,Month-to-month,1,"0-12 months",85,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+8837-VVWLQ,Month-to-month,8,"0-12 months",84.95,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+8382-SHQEH,Month-to-month,8,"0-12 months",84.9,High,"Fiber optic","Electronic check",No,No,No,Yes
+2379-ENZGV,Month-to-month,6,"0-12 months",84.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+6060-DRTNL,Month-to-month,5,"0-12 months",84.85,High,"Fiber optic","Mailed check",No,No,Yes,Yes
+2202-CUYXZ,Month-to-month,1,"0-12 months",84.85,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0219-YTZUE,Month-to-month,4,"0-12 months",84.8,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+2205-YMZZJ,Month-to-month,7,"0-12 months",84.8,High,"Fiber optic","Electronic check",No,No,No,Yes
+4706-AXVKM,Month-to-month,11,"0-12 months",84.8,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+3198-VELRD,Month-to-month,3,"0-12 months",84.75,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+1624-WOIWJ,Month-to-month,10,"0-12 months",84.7,High,"Fiber optic","Mailed check",No,Yes,No,Yes
+7503-ZGUZJ,Month-to-month,1,"0-12 months",84.65,High,"Fiber optic","Mailed check",No,No,No,Yes
+8937-RDTHP,Month-to-month,1,"0-12 months",84.6,High,"Fiber optic","Mailed check",No,Yes,No,Yes
+4750-ZRXIU,Month-to-month,4,"0-12 months",84.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+0875-CABNR,Month-to-month,10,"0-12 months",84.6,High,"Fiber optic","Credit card (automatic)",No,No,Yes,Yes
+8972-HJWNV,Month-to-month,7,"0-12 months",84.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+9367-WXLCH,Month-to-month,8,"0-12 months",84.5,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+7120-RFMVS,Month-to-month,1,"0-12 months",84.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+5520-FVEWJ,Month-to-month,12,"0-12 months",84.5,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+4919-IKATY,Month-to-month,5,"0-12 months",84.5,High,"Fiber optic","Electronic check",No,Yes,Yes,Yes
+7613-LLQFO,Month-to-month,12,"0-12 months",84.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+8058-JMEQO,Month-to-month,9,"0-12 months",84.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+5357-TZHPP,Month-to-month,9,"0-12 months",84.4,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+7005-CCBKV,Month-to-month,6,"0-12 months",84.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+0196-VULGZ,Month-to-month,6,"0-12 months",84.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+2013-SGDXK,Month-to-month,1,"0-12 months",84.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+5868-YWPDW,Month-to-month,6,"0-12 months",84.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+1565-RHDJD,Month-to-month,4,"0-12 months",84.05,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+5383-MMTWC,Month-to-month,8,"0-12 months",84,High,"Fiber optic","Electronic check",No,No,No,Yes
+3908-BLSYF,Month-to-month,6,"0-12 months",83.9,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+9965-YOKZB,Month-to-month,9,"0-12 months",83.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+0923-PNFUB,Month-to-month,3,"0-12 months",83.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+5685-IIXLY,Month-to-month,5,"0-12 months",83.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+5949-XIKAE,Month-to-month,8,"0-12 months",83.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+8417-FMLZI,Month-to-month,6,"0-12 months",83.55,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+8931-GJJIQ,Month-to-month,9,"0-12 months",83.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+6015-VVHHE,Month-to-month,5,"0-12 months",83.15,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+3727-RJMEO,Month-to-month,6,"0-12 months",82.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+0742-NXBGR,Month-to-month,1,"0-12 months",82.3,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+7314-OXENN,Month-to-month,2,"0-12 months",82,High,"Fiber optic","Electronic check",No,No,No,Yes
+2004-OCQXK,Month-to-month,1,"0-12 months",81.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+6772-KSATR,Month-to-month,1,"0-12 months",81.7,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+3018-TFTSU,Month-to-month,12,"0-12 months",81.7,High,"Fiber optic","Bank transfer (automatic)",No,Yes,Yes,Yes
+0334-GDDSO,Month-to-month,3,"0-12 months",81.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+4143-OOBWZ,Month-to-month,5,"0-12 months",81.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+8808-ELEHO,Month-to-month,8,"0-12 months",81.25,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+5445-UTODQ,Month-to-month,7,"0-12 months",81.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+4614-NUVZD,Month-to-month,1,"0-12 months",81.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+4795-KTRTH,Month-to-month,5,"0-12 months",81,High,"Fiber optic","Electronic check",No,No,No,Yes
+2612-RRIDN,Month-to-month,4,"0-12 months",81,High,"Fiber optic","Electronic check",No,No,No,Yes
+9095-HFAFX,Month-to-month,5,"0-12 months",81,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+4817-QRJSX,Month-to-month,10,"0-12 months",81,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+9878-TNQGW,Month-to-month,2,"0-12 months",80.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+5275-SQEIZ,Month-to-month,1,"0-12 months",80.85,High,"Fiber optic","Mailed check",No,No,No,Yes
+1704-NRWYE,Month-to-month,9,"0-12 months",80.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+5729-KLZAR,Month-to-month,4,"0-12 months",80.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+6000-APYLU,Month-to-month,9,"0-12 months",80.8,High,"Fiber optic","Electronic check",No,No,No,Yes
+6457-USBER,Month-to-month,1,"0-12 months",80.8,High,"Fiber optic","Electronic check",No,No,No,Yes
+8183-ONMXC,Month-to-month,2,"0-12 months",80.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+0940-OUQEC,Month-to-month,10,"0-12 months",80.7,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+7760-OYPDY,Month-to-month,2,"0-12 months",80.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+7495-OOKFY,Month-to-month,8,"0-12 months",80.65,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+7563-BIUPC,Month-to-month,5,"0-12 months",80.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+2868-SNELZ,Month-to-month,2,"0-12 months",80.6,High,"Fiber optic","Mailed check",No,No,Yes,Yes
+2737-YNGYW,Month-to-month,2,"0-12 months",80.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+0318-QUUOB,Month-to-month,1,"0-12 months",80.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+6330-JKLPC,Month-to-month,11,"0-12 months",80.5,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+9840-DVNDC,Month-to-month,6,"0-12 months",80.5,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+2867-UIMSS,Month-to-month,1,"0-12 months",80.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+9391-EOYLI,Month-to-month,12,"0-12 months",80.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+2397-BRLOM,Month-to-month,8,"0-12 months",80.45,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+4086-YQSNZ,Month-to-month,3,"0-12 months",80.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+2959-MJHIC,Month-to-month,4,"0-12 months",80.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+9897-KXHCM,Month-to-month,3,"0-12 months",80.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+7903-CMPEY,Month-to-month,1,"0-12 months",80.3,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+0947-IDHRQ,Month-to-month,7,"0-12 months",80.3,High,"Fiber optic","Mailed check",No,No,No,Yes
+4572-DVCGN,Month-to-month,10,"0-12 months",80.25,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+5494-HECPR,Month-to-month,1,"0-12 months",80.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+9689-PTNPG,Month-to-month,2,"0-12 months",80.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+8086-OVPWV,Month-to-month,2,"0-12 months",80.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+4529-CKBCL,Month-to-month,2,"0-12 months",80.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+0137-OCGAB,Month-to-month,1,"0-12 months",80.2,High,"Fiber optic","Mailed check",No,No,No,Yes
+6086-ESGRL,Month-to-month,1,"0-12 months",80.15,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+7693-LCKZL,Month-to-month,5,"0-12 months",80.15,High,"Fiber optic","Electronic check",No,No,No,Yes
+4277-PVRAN,Month-to-month,8,"0-12 months",80.1,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+4547-KQRTM,Month-to-month,10,"0-12 months",80.05,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+8821-XNHVZ,Month-to-month,1,"0-12 months",80.05,High,"Fiber optic","Mailed check",No,No,No,Yes
+1448-PWKYE,Month-to-month,1,"0-12 months",80,High,"Fiber optic","Electronic check",No,No,No,Yes
+6941-PMGEP,Month-to-month,5,"0-12 months",80,High,"Fiber optic","Electronic check",No,No,No,Yes
+1184-PJVDB,Month-to-month,10,"0-12 months",79.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+9300-RENDD,Month-to-month,1,"0-12 months",79.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+1285-OKIPP,Month-to-month,1,"0-12 months",79.9,High,"Fiber optic","Electronic check",No,No,No,Yes
+0495-ZBNGW,Month-to-month,5,"0-12 months",79.9,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+6161-UUUTA,Month-to-month,3,"0-12 months",79.9,High,"Fiber optic","Electronic check",No,No,No,Yes
+4806-KEXQR,Month-to-month,4,"0-12 months",79.9,High,"Fiber optic","Electronic check",No,No,No,Yes
+0727-IWKVK,Month-to-month,9,"0-12 months",79.9,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+1981-INRFU,Month-to-month,2,"0-12 months",79.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+9317-WZPGV,Month-to-month,2,"0-12 months",79.75,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+0495-RVCBF,Month-to-month,1,"0-12 months",79.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+8642-GVWRF,Month-to-month,2,"0-12 months",79.7,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+6437-UKHMV,Month-to-month,7,"0-12 months",79.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+8128-YVJRG,Month-to-month,7,"0-12 months",79.65,High,"Fiber optic","Mailed check",No,Yes,No,Yes
+8943-URTMR,Month-to-month,2,"0-12 months",79.65,High,"Fiber optic","Mailed check",No,No,No,Yes
+8058-INTPH,Month-to-month,1,"0-12 months",79.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+7594-RQHXR,Month-to-month,1,"0-12 months",79.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+4713-LZDRV,Month-to-month,2,"0-12 months",79.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+5393-RXQSZ,Month-to-month,1,"0-12 months",79.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+1761-AEZZR,Month-to-month,1,"0-12 months",79.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+9019-QVLZD,Month-to-month,1,"0-12 months",79.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+0872-NXJYS,Month-to-month,9,"0-12 months",79.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+6618-RYATB,Month-to-month,1,"0-12 months",79.55,High,"Fiber optic","Mailed check",No,No,Yes,Yes
+5442-XSDCW,Month-to-month,11,"0-12 months",79.5,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+2514-GINMM,Month-to-month,1,"0-12 months",79.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+7074-IEVOJ,Month-to-month,3,"0-12 months",79.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+1678-FYZOW,Month-to-month,3,"0-12 months",79.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+5919-TMRGD,Month-to-month,1,"0-12 months",79.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+4910-AQFFX,Month-to-month,9,"0-12 months",79.35,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+9507-EXLTT,Month-to-month,1,"0-12 months",79.35,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+2026-TGDHM,Month-to-month,7,"0-12 months",79.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+8225-BTJAU,Month-to-month,10,"0-12 months",79.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+2868-MZAGQ,Month-to-month,1,"0-12 months",79.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+6110-OHIHY,Month-to-month,3,"0-12 months",79.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+6567-HOOPW,Month-to-month,1,"0-12 months",79.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+5561-NWEVX,Month-to-month,2,"0-12 months",79.2,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+4210-QFJMF,Month-to-month,4,"0-12 months",79.15,High,"Fiber optic","Electronic check",No,No,No,Yes
+7493-TPUWZ,Month-to-month,1,"0-12 months",79.15,High,"Fiber optic","Electronic check",No,No,No,Yes
+8580-AECUZ,Month-to-month,1,"0-12 months",79.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+4587-NUKOX,Month-to-month,3,"0-12 months",79.1,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+6400-BWQKW,Month-to-month,6,"0-12 months",79.05,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+5960-WPXQM,Month-to-month,1,"0-12 months",79.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+7198-GLXTC,Month-to-month,2,"0-12 months",79,High,"Fiber optic","Electronic check",No,No,No,Yes
+7638-QVMVY,Month-to-month,7,"0-12 months",79,High,"Fiber optic","Electronic check",No,No,No,Yes
+8752-STIVR,Month-to-month,4,"0-12 months",79,High,"Fiber optic","Electronic check",No,No,No,Yes
+8637-XJIVR,Month-to-month,12,"0-12 months",78.95,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+6689-TCZHQ,Month-to-month,5,"0-12 months",78.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+8740-CRYFY,Month-to-month,1,"0-12 months",78.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+9231-ZJYAM,Month-to-month,4,"0-12 months",78.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+6372-RFVNS,Month-to-month,1,"0-12 months",78.8,High,"Fiber optic","Electronic check",No,No,No,Yes
+1569-TTNYJ,Month-to-month,5,"0-12 months",78.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+8945-GRKHX,Month-to-month,1,"0-12 months",78.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+1304-NECVQ,Month-to-month,2,"0-12 months",78.55,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+9837-BMCLM,Month-to-month,3,"0-12 months",78.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+3249-ZPQRG,Month-to-month,4,"0-12 months",78.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+9885-CSMWE,Month-to-month,1,"0-12 months",78.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+6178-KFNHS,Month-to-month,12,"0-12 months",78.3,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+3096-IZETN,Month-to-month,12,"0-12 months",78.1,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+2777-PHDEI,Month-to-month,1,"0-12 months",78.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+7786-WBJYI,Month-to-month,4,"0-12 months",77.95,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+6376-GAHQE,Month-to-month,4,"0-12 months",77.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+2754-XBHTB,Month-to-month,9,"0-12 months",77.65,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+2609-IAICY,Month-to-month,1,"0-12 months",77.15,High,"Fiber optic","Electronic check",No,No,No,Yes
+8258-GSTJK,Month-to-month,3,"0-12 months",77,High,"Fiber optic","Electronic check",No,No,No,Yes
+5835-BEQEU,Month-to-month,3,"0-12 months",76.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+2919-HBCJO,Month-to-month,4,"0-12 months",76.65,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+7625-XCQRH,Month-to-month,11,"0-12 months",76.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+0637-KVDLV,Month-to-month,2,"0-12 months",76.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+2070-FNEXE,Month-to-month,7,"0-12 months",76.45,High,"Fiber optic","Bank transfer (automatic)",No,Yes,No,Yes
+9248-OJYKK,Month-to-month,1,"0-12 months",76.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+7598-UAASY,Month-to-month,2,"0-12 months",76.4,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3296-SILRA,Month-to-month,1,"0-12 months",76.4,High,"Fiber optic","Mailed check",No,No,No,Yes
+6910-HADCM,Month-to-month,1,"0-12 months",76.35,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+9444-JTXHZ,Month-to-month,1,"0-12 months",76.2,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+7576-OYWBN,Month-to-month,3,"0-12 months",76.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+8443-ZRDBZ,Month-to-month,4,"0-12 months",76.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+6960-HVYXR,Month-to-month,1,"0-12 months",76,High,"Fiber optic","Electronic check",No,No,No,Yes
+1618-CFHME,Month-to-month,2,"0-12 months",75.9,High,"Fiber optic","Electronic check",No,No,No,Yes
+3074-GQWYX,Month-to-month,5,"0-12 months",75.9,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+3519-ZKXGG,Month-to-month,3,"0-12 months",75.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+7595-EUIVN,Month-to-month,1,"0-12 months",75.8,High,"Fiber optic","Electronic check",No,No,No,Yes
+5159-YFPKQ,Month-to-month,2,"0-12 months",75.8,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+4581-SSPWD,Month-to-month,3,"0-12 months",75.8,High,"Fiber optic","Electronic check",No,No,No,Yes
+1262-OPMFY,Month-to-month,9,"0-12 months",75.75,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+7130-VTEWQ,Month-to-month,8,"0-12 months",75.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+6894-LFHLY,Month-to-month,1,"0-12 months",75.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+8433-WXGNA,Month-to-month,2,"0-12 months",75.7,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+5196-SGOAK,Month-to-month,1,"0-12 months",75.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+0506-LVNGN,Month-to-month,5,"0-12 months",75.55,High,"Fiber optic","Credit card (automatic)",No,No,Yes,Yes
+7817-BOQPW,Month-to-month,2,"0-12 months",75.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+9250-WYPLL,Month-to-month,5,"0-12 months",75.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+8185-UPYBR,Month-to-month,6,"0-12 months",75.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+1320-HTRDR,Month-to-month,3,"0-12 months",75.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+5834-ASPWA,Month-to-month,1,"0-12 months",75.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+7410-YTJIK,Month-to-month,7,"0-12 months",75.45,High,"Fiber optic","Mailed check",No,No,No,Yes
+2516-VQRRV,Month-to-month,2,"0-12 months",75.45,High,"Fiber optic","Mailed check",No,No,No,Yes
+5054-IEXZT,Month-to-month,1,"0-12 months",75.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+4988-IQIGL,Month-to-month,1,"0-12 months",75.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+1602-IJQQE,Month-to-month,4,"0-12 months",75.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+5564-NEMQO,Month-to-month,1,"0-12 months",75.3,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+3627-FHKBK,Month-to-month,1,"0-12 months",75.3,High,"Fiber optic","Mailed check",No,Yes,No,Yes
+9787-XVQIU,Month-to-month,1,"0-12 months",75.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+9940-RHLFB,Month-to-month,1,"0-12 months",75.3,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0925-VYDLG,Month-to-month,3,"0-12 months",75.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+9191-MYQKX,Month-to-month,7,"0-12 months",75.15,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+5570-PTWEH,Month-to-month,3,"0-12 months",75.15,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+2276-YDAVZ,Month-to-month,3,"0-12 months",75.1,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+8816-VXNZD,Month-to-month,1,"0-12 months",75.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+7912-SYRQT,Month-to-month,7,"0-12 months",75.1,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+3276-HDUEG,Month-to-month,1,"0-12 months",75.05,High,"Fiber optic","Mailed check",No,No,No,Yes
+1980-KXVPM,Month-to-month,3,"0-12 months",75.05,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+7993-PYKOF,Month-to-month,8,"0-12 months",75,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+8676-TRMJS,Month-to-month,3,"0-12 months",75,High,"Fiber optic","Mailed check",No,No,No,Yes
+1157-BQCUW,Month-to-month,1,"0-12 months",74.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+1024-VRZHF,Month-to-month,11,"0-12 months",74.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+4503-BDXBD,Month-to-month,11,"0-12 months",74.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+9274-CNFMO,Month-to-month,4,"0-12 months",74.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+6358-LYNGM,Month-to-month,1,"0-12 months",74.9,High,"Fiber optic","Electronic check",No,No,No,Yes
+4229-CZMLL,Month-to-month,6,"0-12 months",74.9,High,"Fiber optic","Electronic check",No,No,No,Yes
+6996-KNSML,Month-to-month,1,"0-12 months",74.9,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+6711-FLDFB,Month-to-month,7,"0-12 months",74.9,High,"Fiber optic","Electronic check",No,No,No,Yes
+0722-TROQR,Month-to-month,4,"0-12 months",74.9,High,"Fiber optic","Electronic check",No,No,No,Yes
+7571-YXDAD,Month-to-month,2,"0-12 months",74.9,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+7235-NXZCP,Month-to-month,2,"0-12 months",74.85,High,"Fiber optic","Mailed check",No,No,No,Yes
+2984-MIIZL,Month-to-month,4,"0-12 months",74.8,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+4282-YMKNA,Month-to-month,9,"0-12 months",74.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+8065-YKXKD,Month-to-month,10,"0-12 months",74.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+6424-ELEYH,Month-to-month,3,"0-12 months",74.75,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+9399-APLBT,Month-to-month,1,"0-12 months",74.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+5240-IJOQT,Month-to-month,1,"0-12 months",74.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+2761-OCIAX,Month-to-month,2,"0-12 months",74.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+3765-JXVKY,Month-to-month,1,"0-12 months",74.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+0927-LCSMG,Month-to-month,7,"0-12 months",74.65,High,"Fiber optic","Mailed check",No,No,Yes,Yes
+7341-LXCAF,Month-to-month,4,"0-12 months",74.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+1518-VOWAV,Month-to-month,9,"0-12 months",74.65,High,DSL,"Electronic check",No,Yes,No,Yes
+2024-BASKD,Month-to-month,1,"0-12 months",74.6,High,"Fiber optic","Mailed check",No,No,Yes,Yes
+3746-EUBYR,Month-to-month,1,"0-12 months",74.6,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+0709-TVGUR,Month-to-month,9,"0-12 months",74.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+1428-GTBJJ,Month-to-month,11,"0-12 months",74.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+3488-PGMQJ,Month-to-month,8,"0-12 months",74.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+7180-PISOG,Month-to-month,1,"0-12 months",74.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+3235-ETOOB,Month-to-month,8,"0-12 months",74.5,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+4415-IJZTP,Month-to-month,1,"0-12 months",74.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+2982-IHMFT,Month-to-month,1,"0-12 months",74.45,High,"Fiber optic","Mailed check",No,No,No,Yes
+0723-DRCLG,Month-to-month,1,"0-12 months",74.45,High,"Fiber optic","Electronic check",No,No,No,Yes
+0404-SWRVG,Month-to-month,3,"0-12 months",74.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+0388-EOPEX,Month-to-month,2,"0-12 months",74.4,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+6680-WKXRZ,Month-to-month,3,"0-12 months",74.4,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+8699-ASUFO,Month-to-month,7,"0-12 months",74.4,High,"Fiber optic","Mailed check",No,No,No,Yes
+4102-OQUPX,Month-to-month,1,"0-12 months",74.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+4505-EXZHB,Month-to-month,6,"0-12 months",74.4,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3551-HUAZH,Month-to-month,1,"0-12 months",74.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+8361-LTMKD,Month-to-month,4,"0-12 months",74.4,High,"Fiber optic","Mailed check",No,No,No,Yes
+8372-JUXUI,Month-to-month,1,"0-12 months",74.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+5956-VKDTT,Month-to-month,5,"0-12 months",74.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+4274-OWWYO,Month-to-month,1,"0-12 months",74.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+1867-BDVFH,Month-to-month,11,"0-12 months",74.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+8083-YTZES,Month-to-month,4,"0-12 months",74.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+9894-EZEWG,Month-to-month,1,"0-12 months",74.3,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+4116-TZAQJ,Month-to-month,9,"0-12 months",74.25,High,"Fiber optic","Credit card (automatic)",No,Yes,No,Yes
+3707-GNWHM,Month-to-month,1,"0-12 months",74.25,High,"Fiber optic","Mailed check",No,No,No,Yes
+9306-CPCBC,Month-to-month,3,"0-12 months",74.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+1833-VGRUM,Month-to-month,1,"0-12 months",74.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+6347-DCUIK,Month-to-month,10,"0-12 months",74.15,High,"Fiber optic","Mailed check",No,No,No,Yes
+9850-OWRHQ,Month-to-month,3,"0-12 months",74.1,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+0004-TLHLJ,Month-to-month,4,"0-12 months",73.9,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+0122-OAHPZ,Month-to-month,7,"0-12 months",73.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+4585-HETAI,Month-to-month,4,"0-12 months",73.75,High,"Fiber optic","Electronic check",No,No,Yes,Yes
+3070-DVEYC,Month-to-month,7,"0-12 months",73.75,High,"Fiber optic","Mailed check",No,No,No,Yes
+7603-USHJS,Month-to-month,12,"0-12 months",73.75,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+8473-VUVJN,Month-to-month,1,"0-12 months",73.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+6390-DSAZX,Month-to-month,1,"0-12 months",73.6,High,"Fiber optic","Mailed check",No,Yes,No,Yes
+1196-AMORA,Month-to-month,7,"0-12 months",73.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+6513-EECDB,Month-to-month,1,"0-12 months",73.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+2983-ZANRP,Month-to-month,2,"0-12 months",73.55,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+9747-DDZOS,Month-to-month,1,"0-12 months",73.5,High,"Fiber optic","Bank transfer (automatic)",No,No,Yes,Yes
+5108-ADXWO,Month-to-month,11,"0-12 months",73.5,High,"Fiber optic","Electronic check",No,Yes,No,Yes
+6221-AVQYL,Month-to-month,2,"0-12 months",73.25,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+1977-STDKI,Month-to-month,1,"0-12 months",73,High,"Fiber optic","Electronic check",No,No,No,Yes
+1907-UBQFC,Month-to-month,10,"0-12 months",72.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+8111-RKSPX,Month-to-month,4,"0-12 months",72.2,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+6331-LWDTQ,Month-to-month,10,"0-12 months",72.15,High,DSL,"Credit card (automatic)",No,No,No,Yes
+8380-PEFPE,Month-to-month,1,"0-12 months",71.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+8644-XLFBW,Month-to-month,1,"0-12 months",71.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+6140-QNRQQ,Month-to-month,1,"0-12 months",71.55,High,"Fiber optic","Mailed check",No,No,No,Yes
+3177-LASXD,Month-to-month,1,"0-12 months",71.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+8042-JVNFH,Month-to-month,1,"0-12 months",71.35,High,"Fiber optic","Mailed check",No,No,No,Yes
+9488-HGMJH,Month-to-month,1,"0-12 months",71.15,High,"Fiber optic","Electronic check",No,No,No,Yes
+0511-JTEOY,Month-to-month,1,"0-12 months",71.1,High,"Fiber optic","Mailed check",No,No,No,Yes
+7409-KIUTL,Month-to-month,1,"0-12 months",71,High,"Fiber optic","Electronic check",No,No,No,Yes
+3422-LYEPQ,Month-to-month,1,"0-12 months",71,High,"Fiber optic","Electronic check",No,No,No,Yes
+3627-FCRDW,Month-to-month,9,"0-12 months",71,High,"Fiber optic","Electronic check",No,No,No,Yes
+3721-CNEYS,Month-to-month,2,"0-12 months",70.95,High,"Fiber optic","Electronic check",No,No,No,Yes
+3376-BMGFE,Month-to-month,4,"0-12 months",70.9,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+0151-ONTOV,Month-to-month,1,"0-12 months",70.9,High,"Fiber optic","Mailed check",No,No,No,Yes
+0812-WUPTB,Month-to-month,1,"0-12 months",70.85,High,"Fiber optic","Mailed check",No,No,No,Yes
+1031-IIDEO,Month-to-month,1,"0-12 months",70.85,High,"Fiber optic","Electronic check",No,No,No,Yes
+0968-GSIKN,Month-to-month,1,"0-12 months",70.8,High,"Fiber optic","Mailed check",No,No,No,Yes
+3866-MDTUB,Month-to-month,2,"0-12 months",70.75,High,DSL,"Electronic check",No,Yes,No,Yes
+0519-XUZJU,Month-to-month,1,"0-12 months",70.75,High,"Fiber optic","Mailed check",No,No,No,Yes
+0685-MLYYM,Month-to-month,2,"0-12 months",70.75,High,"Fiber optic","Electronic check",No,No,No,Yes
+9237-HQITU,Month-to-month,2,"0-12 months",70.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+8835-VSDSE,Month-to-month,2,"0-12 months",70.7,High,"Fiber optic","Electronic check",No,No,No,Yes
+5028-GZLDO,Month-to-month,2,"0-12 months",70.7,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+4342-HENTK,Month-to-month,2,"0-12 months",70.65,High,"Fiber optic","Electronic check",No,No,No,Yes
+1122-JWTJW,Month-to-month,1,"0-12 months",70.65,High,"Fiber optic","Mailed check",No,No,No,Yes
+5940-AHUHD,Month-to-month,1,"0-12 months",70.6,High,"Fiber optic","Mailed check",No,No,No,Yes
+5376-DEQCP,Month-to-month,1,"0-12 months",70.6,High,"Fiber optic","Electronic check",No,No,No,Yes
+8051-HJRLT,Month-to-month,1,"0-12 months",70.55,High,"Fiber optic","Electronic check",No,No,No,Yes
+1915-IOFGU,Month-to-month,1,"0-12 months",70.5,High,"Fiber optic","Electronic check",No,No,No,Yes
+0390-DCFDQ,Month-to-month,1,"0-12 months",70.45,High,"Fiber optic","Mailed check",No,No,No,Yes
+0515-YPMCW,Month-to-month,1,"0-12 months",70.45,High,"Fiber optic","Mailed check",No,No,No,Yes
+4629-NRXKX,Month-to-month,2,"0-12 months",70.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+4763-PGDPO,Month-to-month,4,"0-12 months",70.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+2055-PDADH,Month-to-month,3,"0-12 months",70.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+4759-TRPLW,Month-to-month,1,"0-12 months",70.4,High,"Fiber optic","Electronic check",No,No,No,Yes
+5804-LEPIM,Month-to-month,2,"0-12 months",70.35,High,"Fiber optic","Electronic check",No,No,No,Yes
+7379-POKDZ,Month-to-month,3,"0-12 months",70.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+5976-JCJRH,Month-to-month,10,"0-12 months",70.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+6653-CBBOM,Month-to-month,1,"0-12 months",70.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+6168-WFVVF,Month-to-month,3,"0-12 months",70.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+1363-TXLSL,Month-to-month,1,"0-12 months",70.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+2446-PLQVO,Month-to-month,1,"0-12 months",70.3,High,"Fiber optic","Electronic check",No,No,No,Yes
+2815-CPTUL,Month-to-month,5,"0-12 months",70.25,High,"Fiber optic","Mailed check",No,No,No,Yes
+3244-DCJWY,Month-to-month,1,"0-12 months",70.25,High,"Fiber optic","Electronic check",No,No,No,Yes
+2568-BRGYX,Month-to-month,4,"0-12 months",70.2,High,"Fiber optic","Electronic check",No,No,No,Yes
+2260-USTRB,Month-to-month,2,"0-12 months",70.2,High,"Fiber optic","Bank transfer (automatic)",No,No,No,Yes
+9408-SSNVZ,Month-to-month,4,"0-12 months",70.15,High,"Fiber optic","Electronic check",No,No,No,Yes
+1846-XWOQN,Month-to-month,1,"0-12 months",70.15,High,"Fiber optic","Electronic check",No,No,No,Yes
+2619-WFQWU,Month-to-month,1,"0-12 months",70.15,High,"Fiber optic","Mailed check",No,No,No,Yes
+9985-MWVIX,Month-to-month,1,"0-12 months",70.15,High,"Fiber optic","Mailed check",No,No,No,Yes
+5931-FLJJF,Month-to-month,7,"0-12 months",70.1,High,"Fiber optic","Mailed check",No,No,No,Yes
+9540-JYROE,Month-to-month,8,"0-12 months",70.1,High,"Fiber optic","Mailed check",No,No,No,Yes
+4702-IOQDC,Month-to-month,1,"0-12 months",70.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+6379-RXJRQ,Month-to-month,10,"0-12 months",70.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+0328-GRPMV,Month-to-month,1,"0-12 months",70.1,High,"Fiber optic","Electronic check",No,No,No,Yes
+3494-JCHRQ,Month-to-month,1,"0-12 months",70.05,High,"Fiber optic","Electronic check",No,No,No,Yes
+2608-BHKFN,Month-to-month,4,"0-12 months",70.05,High,"Fiber optic","Credit card (automatic)",No,No,No,Yes
+6715-OFDBP,Month-to-month,5,"0-12 months",70.05,High,DSL,"Electronic check",No,No,Yes,Yes

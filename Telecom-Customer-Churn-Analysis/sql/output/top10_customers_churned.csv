@@ -1,0 +1,11 @@
+customerID,Contract,tenure,MonthlyCharges,InternetService,PaymentMethod,Churn
+8199-ZLLSA,"One year",67,118.35,"Fiber optic","Bank transfer (automatic)",Yes
+2889-FPWRM,"One year",72,117.8,"Fiber optic","Bank transfer (automatic)",Yes
+2302-ANTDP,Month-to-month,48,117.45,"Fiber optic","Electronic check",Yes
+9053-JZFKV,"Two year",67,116.2,"Fiber optic","Credit card (automatic)",Yes
+1444-VVSGW,"One year",70,115.65,"Fiber optic","Credit card (automatic)",Yes
+0201-OAMXR,"One year",70,115.55,"Fiber optic","Credit card (automatic)",Yes
+4361-BKAXE,Month-to-month,41,114.5,"Fiber optic","Bank transfer (automatic)",Yes
+1555-DJEQW,"Two year",70,114.2,"Fiber optic","Bank transfer (automatic)",Yes
+9158-VCTQB,Month-to-month,41,113.6,"Fiber optic","Bank transfer (automatic)",Yes
+7279-BUYWN,Month-to-month,41,113.2,"Fiber optic","Electronic check",Yes
